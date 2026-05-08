@@ -5,7 +5,8 @@ using UnityEngine.InputSystem;
 public enum StateType
 {
    Move,
-   Attack
+   Attack,
+   jump
 
 }
 
